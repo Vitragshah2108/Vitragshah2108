@@ -8,10 +8,10 @@
     <td width="55%">
       
 ### 🛠️ Currently Working On
-> **AI-Powered Code Optimizer** — _“Big-OH Whisperer”_
+> **Blogging Platform** — _“The Blog HUB”_
 
 ### 🌱 Currently Learning
-> **Next.js**, **TypeScript**, **GraphQL**
+> **ReactJS**, **NodeJS**, **ExpressJS** ,**MongoDB**
 
 ### 💬 Ask Me About
 > _React performance, frontend architecture, async rendering, and clean UI logic._
@@ -38,7 +38,6 @@
   <a href="https://twitter.com/vitrag_21" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/vitrag-shah-684952213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/21_vitrag" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/h202412100" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://leetcode.com/vitrag2108" target="_blank"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/vitragshzh18" target="_blank"><img src="https://img.shields.io/badge/GFG-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
@@ -65,11 +64,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
