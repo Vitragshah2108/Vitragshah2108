@@ -38,8 +38,6 @@
   <a href="https://twitter.com/vitrag_21" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/vitrag-shah-684952213" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/21_vitrag" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/vitrag2108" target="_blank"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vitragshzh18" target="_blank"><img src="https://img.shields.io/badge/GFG-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
